@@ -1,6 +1,5 @@
 """
 WINDOWS PATH ENTRIES MANAGER
-Licenced as GPL
 @author: Marius Munthe-Kaas 
 @email: mariussmk@gmail.com
 """
