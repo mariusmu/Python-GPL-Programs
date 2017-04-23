@@ -1,4 +1,7 @@
-# Python-programs
+# Windows Path Manager cli
 Manage your windows easily paths using your command prompt. 
 
-Windows Path Manager - List all path values as a list. Add and remove and update registry
+## Functionality
+- List all path values as a list. 
+- Add and remove paths
+- Update single folder paths 
